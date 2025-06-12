@@ -1,0 +1,4 @@
+.env
+household_power_consumption.csv
+Zero_Shot_prompts/household_power_consumption.csv
+Few_shot_prompts/household_power_consumption.csv
