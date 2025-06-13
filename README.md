@@ -49,11 +49,11 @@ The follwoing models are used here with Groq API for the analysis.
 
 | Model Name          | Prompting Strategy | Execution Accuracy  | Answer Correctness  |
 |---------------------|--------------------|---------------------|---------------------|
-| **gemma2-9b-it**    | Zero Shot              | 57.14%              | 0.29                |
-|                     | Few Shot               | 100%                | 0.86                |
-| **llama3-70b-8192** | Zero Shot              | 57.14%              | 0.29                |
-|                     | Few Shot               | 100%                | 0.86                |
-| **qwen_qwq_32b**    | Zero Shot              | 85.71%              | 0.71                |
-|                     | Few Shot              | 100%                | 0.86                |
+| **gemma2-9b-it**    | Zero Shot              | 0.57              | 0.29                |
+|                     | Few Shot               | 1.00                | 0.86                |
+| **llama3-70b-8192** | Zero Shot              | 0.57              | 0.29                |
+|                     | Few Shot               | 1.00             | 0.86                |
+| **qwen_qwq_32b**    | Zero Shot              | 0.85             | 0.71                |
+|                     | Few Shot              | 1.00            | 0.86                |
 
 
